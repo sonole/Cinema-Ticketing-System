@@ -67,35 +67,42 @@
 
 <div>
 <h3>Showcase</h3>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio1.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio2.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio3.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio4.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio5.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio6.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio7.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio8.jpg?raw=true">
+  <p>Signup form</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio9.jpg?raw=true">
+  <p>Login form</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio10.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio11.jpg?raw=true">
+  <p>Admin Dashboard</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio12.jpg?raw=true">
+  <p>User menu</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio13.jpg?raw=true">
+  <p>User login logs and account info change</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio14.jpg?raw=true">
+  <p>Contact usform</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio15.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio16.jpg?raw=true">
+  <p>Chat with administrators</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio17.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio18.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio19.jpg?raw=true">
+  <p>When a user sends messages to an administrator, the admin can reply from his dashboard</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio20.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio21.jpg?raw=true">
+  <p>Final chat from admin and user side</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio22.jpg?raw=true">
+  <p>The chat at db</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio23.jpg?raw=true">
+  <p>Ticketing system</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio24.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio25.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio26.jpg?raw=true">
+  <p>Dynamic page for the selected movie</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio27.jpg?raw=true">
+  <p>Book a ticket</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio28.jpg?raw=true">
+  <p>Email receipt</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio29.jpg?raw=true">
+  <p>Admin dashboard to edit or add movies,theaters, schedules</p>
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio30.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio31.jpg?raw=true">
   <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio32.jpg?raw=true">

@@ -1,5 +1,12 @@
 <div>
   <p>Cinema Ticketing System using REST Web Services (JAX-RS)<br>Technologies used in this project JSP, HTML, JS, CSS, Bootstrap, JAVA 8, MySQL</p>
+  <p>What will you find in this project:</p>
+  <ul>
+    <li><p>Working ticketing system with email receipt and admin dashboard to add or edit the theater schedule, movies and rooms</p></li>
+    <li><p>Asychronus chat bettween administrators and users</p></li>
+    <li><p>Registration, Login, Contact us forms</p></li>
+    <li><p>Dynamic pages for movie description</p></li>
+  </ul>
 </div>
 <br><hr><br>
 

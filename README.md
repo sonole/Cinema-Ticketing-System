@@ -56,7 +56,8 @@
 <h3>How to run this project</h3>
 <ol>
   <li><p>Download and install MySQL. When installing use root / root as username and password for the administration credentials. Otherwise they will need to be changed in MySQL.java</p></li>
-  <li><p>Create a database named "cinethisio" and then import the sql file with the following command: <pre>mysql -u root -p cinethisio <PATH / cinethisio.sql</pre></p></li>
+  <li><p>Create a database named "cinethisio" and then import the sql file with the following command:
+    <pre>mysql -u root -p cinethisio < PATH/cinethisio.sql</pre></p></li>
   <li><p>Install JDK 8 and 2018-09 JAVA EE version of Eclipse.</p></li>
   <li><p>Install Apache Tomcat v9 in Eclipse and at the installation folder of tomcat coppy the file my_jar\external\mysqlconnector-java-5.1.49 at lib folder.</p></li>
   <li><p>Coppy the project at Eclipse Worckspace. The projecct is at my_files\CINEThisio.</p></li>

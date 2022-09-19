@@ -16,7 +16,7 @@
   <p>For all web services of the system we use REST architecture. Therefore all services are accessible via URI. Calling a Web Service using the HTTP protocol and GET / PUT / POST / DELETE methods make it possible to manipulate system resources.<br>The API used to develop all Web Services is JAXRS.<br>Specifically, Jersey *, the open-source framework for development of RESTful web services in Java.<br>
 * Jersey 1.x has the JEE6 version of the JAX-RS</p>
   <p>At a glance the web-services and pages that appear to the end user:</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio0.jpg?raw=true" alt="web_services">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio0.jpg" alt="web_services">
   <ul>
     <li>my.db</li>
       <ul><li>MySQL.java | 1 private method, 2 public methods</li></ul>
@@ -76,48 +76,48 @@
 <div>
 <h3>Showcase</h3>
   <p>Signup form</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio9.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio9.jpg">
   <p>Login form</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio10.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio11.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio10.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio11.jpg">
   <p>Admin Dashboard</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio12.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio12.jpg">
   <p>User menu</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio13.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio13.jpg">
   <p>User login logs and account info change</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio14.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio14.jpg">
   <p>Contact usform</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio15.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio16.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio15.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio16.jpg">
   <p>Chat with administrators</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio17.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio18.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio19.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio17.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio18.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio19.jpg">
   <p>When a user sends messages to an administrator, the admin can reply from his dashboard</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio20.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio21.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio20.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio21.jpg">
   <p>Final chat from admin and user side</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio22.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio22.jpg">
   <p>The chat at db</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio23.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio23.jpg">
   <p>Ticketing system</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio24.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio25.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio26.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio24.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio25.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio26.jpg">
   <p>Dynamic page for the selected movie</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio27.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio27.jpg">
   <p>Book a ticket</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio28.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio28.jpg">
   <p>Email receipt</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio29.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio29.jpg">
   <p>Admin dashboard to edit or add movies,theaters, schedules</p>
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio30.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio31.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio32.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio33.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio34.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio35.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio36.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio37.jpg?raw=true">
-  <img src="https://github.com/sonole/sonole/blob/main/assets/cinethisio38.jpg?raw=true">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio30.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio31.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio32.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio33.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio34.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio35.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio36.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio37.jpg">
+  <img src="https://apaliampelos.me/assets/images/github/cinema-ticketing-system/cinethisio38.jpg">
 </div>
